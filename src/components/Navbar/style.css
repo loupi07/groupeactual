@@ -1,0 +1,18 @@
+.Navbar {
+  background: #7f7f7f7f;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: brown;
+}
+
+.active {
+  text-decoration: underline overline purple;
+}
